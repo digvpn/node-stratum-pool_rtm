@@ -1,0 +1,72 @@
+{
+  "_from": "git://github.com/sygem/node-stratum-pool.git",
+  "_id": "stratum-pool@0.1.9",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/stratum-pool",
+  "_phantomChildren": {
+    "bindings": "1.3.1",
+    "nan": "2.10.0",
+    "node-pre-gyp": "0.6.39"
+  },
+  "_requested": {
+    "type": "git",
+    "raw": "git://github.com/sygem/node-stratum-pool.git",
+    "rawSpec": "git://github.com/sygem/node-stratum-pool.git",
+    "saveSpec": "git://github.com/sygem/node-stratum-pool.git",
+    "fetchSpec": "git://github.com/sygem/node-stratum-pool.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git://github.com/sygem/node-stratum-pool.git#d0fcca376bf6d70ae50aa55177cfe9e2144bd0ef",
+  "_spec": "git://github.com/sygem/node-stratum-pool.git",
+  "_where": "/home/simon/FOMO/EasyNOMP",
+  "author": {
+    "name": "Matthew Little"
+  },
+  "bugs": {
+    "url": "https://github.com/Stackout/node-stratum-pool/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "vekexasia"
+    },
+    {
+      "name": "TheSeven"
+    }
+  ],
+  "dependencies": {
+    "async": "*",
+    "base58-native": "*",
+    "bignum": "0.12.5",
+    "multi-hashing": "git://github.com/Stackout/node-multi-hashing.git"
+  },
+  "deprecated": false,
+  "description": "High performance Stratum poolserver in Node.js",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "homepage": "https://github.com/Stackout/node-stratum-pool",
+  "keywords": [
+    "stratum",
+    "mining",
+    "pool",
+    "server",
+    "poolserver",
+    "bitcoin",
+    "litecoin",
+    "scrypt"
+  ],
+  "license": "GPL-2.0",
+  "main": "lib/index.js",
+  "name": "stratum-pool",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stackout/node-stratum-pool.git"
+  },
+  "version": "0.1.9"
+}
