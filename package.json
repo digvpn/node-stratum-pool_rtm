@@ -43,7 +43,7 @@
     "async": "*",
     "base58-native": "*",
     "bignum": "0.12.5",
-    "multi-hashing": "git://github.com/Stackout/node-multi-hashing.git"
+    "multi-hashing": "git://github.com/digvpn/rtm-node-multi-hashing.git"
   },
   "deprecated": false,
   "description": "High performance Stratum poolserver in Node.js",
