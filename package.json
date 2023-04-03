@@ -42,7 +42,7 @@
   "dependencies": {
     "async": "*",
     "base58-native": "*",
-    "bignum": "^0.13.1",
+    "bignum": "^0.12.5",
     "multi-hashing": "git://github.com/digvpn/rtm-node-multi-hashing.git"
   },
   "deprecated": false,
