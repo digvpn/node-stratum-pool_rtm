@@ -43,7 +43,7 @@
     "async": "*",
     "base58-native": "*",
     "bignum": "^0.12.5",
-    "multi-hashing": "git+https://github.com/Zuz99/multihashing.git",
+    "multi-hashing": "git+https://github.com/Zuz99/n-multihashing.git",
   },
   "deprecated": false,
   "description": "High performance Stratum poolserver in Node.js",
